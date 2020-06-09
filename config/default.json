@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://brandonv:Nismo1!!@cluster0-c8chr.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "Naruto"
+}
